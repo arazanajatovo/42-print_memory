@@ -12,7 +12,6 @@ Your function must be declared as follows:
 
 void	print_memory(const void *addr, size_t size);
 
----------
 $> cat main.c
 void	print_memory(const void *addr, size_t size);
 
